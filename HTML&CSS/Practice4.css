@@ -1,0 +1,11 @@
+.container {
+    width: 80%;
+}
+
+.col-md-5 {
+    border: thin solid;
+}
+
+.col-md-12 {
+    border: thin solid;
+}
