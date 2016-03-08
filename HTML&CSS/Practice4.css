@@ -1,11 +1,8 @@
 .container {
+    max-width: 1600px;
     width: 80%;
 }
 
-.col-md-5 {
-    border: thin solid;
-}
-
-.col-md-12 {
-    border: thin solid;
+section.col-border {
+    border: 1px solid #000;
 }
